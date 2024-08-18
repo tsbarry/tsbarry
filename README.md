@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thierno Barry
 =====================================================================================================================================
 
-Data Analyst. Data Scientist. Learner
+Data Analyst - Data Scientist - Learner
 -------------------------------------
 
-I have been learning Data Science/Analysis for 2.5 years and I have some engineering background from my time at Trinity College. I have really found a passion for Data Science/Analysis through my learning of Python, SQL, Excel, Tableau, ML, and working on Data projects.
+I have been learning Data Science/Analysis for 2.5 years and I have some engineering background from my time at Trinity College. I have really found a passion for Data Science/Analysis through my learning of Python, SQL, Excel, Tableau, ML, and Statistics, and working on Data projects.
 
 *   🌍  I'm based in New York, NY
 *   🖥️  See my portfolio at [Portfolio](http://https://github.com/tsbarry)
@@ -28,3 +28,4 @@ I have been learning Data Science/Analysis for 2.5 years and I have some enginee
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+
