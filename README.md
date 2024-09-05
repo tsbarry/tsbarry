@@ -7,7 +7,7 @@ Data Analyst - Data Scientist - Data-Driven
 I have been learning Data Science/Analysis for 2.5 years and I have some engineering background from my time at Trinity College. I have really found a passion for Data Science/Analysis through my learning of Python, SQL, Excel, Tableau, ML, and Statistics, and working on Data projects.
 
 *   🌍  I'm based in New York, NY
-*   🖥️  See my portfolio at [Portfolio](http://https://github.com/tsbarry)
+*   🖥️  See my portfolio at [Portfolio](https://tsbarry.github.io/)
 *   ✉️  You can contact me at [tsbarry199@gmail.com](mailto:tsbarry199@gmail.com )
 *   🧠  I'm learning Everything Data Science, and more Machine Learning
 *   🤝  I'm open to collaborating on any project or learning a new tech language
