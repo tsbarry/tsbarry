@@ -9,7 +9,7 @@ I have been learning Data Science/Analysis for 2.5 years and I have some enginee
 *   🌍  I'm based in New York, NY
 *   🖥️  See my portfolio at [Portfolio](https://tsbarry.github.io/)
 *   ✉️  You can contact me at [tsbarry199@gmail.com](mailto:tsbarry199@gmail.com )
-*   🧠  I'm learning Everything Data Science, and more Machine Learning
+*   🧠  I'm learning Everything Data Science and more Machine Learning
 *   🤝  I'm open to collaborating on any project or learning a new tech language
 *   ⚡  I'm passionate about Soccer and health
 *   ### Skills 
